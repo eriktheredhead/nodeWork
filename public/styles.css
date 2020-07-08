@@ -52,6 +52,9 @@
     .content{
       margin-left: 20px;
     }
+    .missing{
+      text-align: center;
+    }
     /* index styles */
     .blogs a{
       display: block;
